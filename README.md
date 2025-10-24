@@ -2,7 +2,7 @@
 
 A mini project built as part of the **freeCodeCamp Responsive Web Design** course.
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 Used CSS gradients to create realistic color effects.
 
