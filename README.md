@@ -4,7 +4,7 @@ A mini project built as part of the **freeCodeCamp Responsive Web Design** cours
 
 ## 🧠 What I Learned
 
-Used CSS gradients to create realistic color effects.
+Used CSS gradients to create realistic color effects.                                                  
 
 Applied box-shadow and border-radius for a 3D marker appearance.
 
