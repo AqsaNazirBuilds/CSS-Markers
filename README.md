@@ -8,10 +8,10 @@ A mini project built as part of the **freeCodeCamp Responsive Web Design** cours
 - Improving webpage readability with styled lists
 
 ## 🔗 Live Demo
-[View on GitHub Pages](https://aqsanazirbuilds.github.io/CSSMarkers/)
+https://aqsanazirbuilds.github.io/CSS-Markers/
 
 ## 💻 Code Repository
-https://github.com/AqsaNazirBuilds/CSSMarkers
+https://github.com/AqsaNazirBuilds/CSS-Markers
 
 ## 🌱 About This Project
 This project focuses on applying basic CSS styling to HTML lists — a small but important step toward mastering web design fundamentals.
